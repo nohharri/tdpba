@@ -30,7 +30,7 @@ To warm up for the new season (and wait for the return of Ian), a 3v3 tournament
 # 1st Round
 ## Warriors Sux vs. Team 1
 ### Date: TBD
-Even Lebron had more help when he faced the Spurs in the 2007 NBA Finals. Expect this to be a strenuous journey to the Finals. Expect injury from Fortman as he will be carrying the team on his back. The one bright light in the Sux roster is the length of their playesr. With all players above 6 foot, expect this team to create matchup nightmares. Even so, expect their offense to purely go through Fortman. Look for Team 1's offense to go through the pick and roll combination of Hazi and Andoji. Both will create matchup nightmares of their own, as Warriors Sux possess no true center.
+Even Lebron had more help when he faced the Spurs in the 2007 NBA Finals. Expect this to be a strenuous journey to the Finals. Assume injury from Fortman as he will be carrying the team on his back. The one bright light in the Sux roster is the length of their players. With all players above 6 foot, this team will create matchup nightmares. Even so, their offense will purely go through Fortman. Look for Team 1's offense to go through the pick and roll combination of Hazi and Andoji. Both will create matchup nightmares of their own, as Warriors Sux possess no true center.
 
 **Harrison's Prediction: Warriors Sux 21-20 **
 
