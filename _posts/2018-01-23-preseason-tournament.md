@@ -9,7 +9,7 @@ To warm up for the new season (and wait for the return of Ian), a 3v3 tournament
 # Teams
 ## Warriors Sux
 - Michael Fortman (Team Captain)
-- Sidd Simha
+- Sidd Sharma
 - Damian Larson
 
 ## Team 1
