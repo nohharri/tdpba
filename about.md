@@ -5,7 +5,7 @@ author: "Harrison"
 permalink: /about/
 ---
 
-To make a change or pull request, navigate to [here]({{ site.baseurl }}/2017-03-16/example-content).
+To make a change or pull request, navigate to [here](https://github.com/nohharri/tdpba).
 
 ## Documentaton
 
