@@ -17,12 +17,12 @@ To warm up for the new season (and wait for the return of Ian), a 3v3 tournament
 - Hope
 - Anuraj Andoji
 
-## Team 2 
+## Oron Sux
 - Justin Katz (Team Captain)
 - Chris Young
 - Thomas Huerta
 
-## Team 4
+## Lakers
 - Thomas Doan (Team Captain)
 - Reece Alan Boyd
 - Sasa Cocic-Banjanac
