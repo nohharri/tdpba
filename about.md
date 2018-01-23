@@ -14,3 +14,4 @@ Changes can be made to the _posts directory. All posts are made through markdown
 
 ## Contributers
 - Harrison Noh
+- Oron Hazi
