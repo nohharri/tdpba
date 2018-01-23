@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1 - Preseason Scouting"
+title:  "Week 1 - Preseason Tournament"
 author: "Harrison Noh"
 ---
 
