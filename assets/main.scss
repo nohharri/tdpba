@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+
+.container {
+	width: 100%;
+}
+
+.tdp-logo-large {
+	width: 200px;
+	margin: 0 auto;
+}
+
+.tdp-team-logos {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.out {
+	color: #fd3636;
+}
