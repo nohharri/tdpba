@@ -11,7 +11,7 @@ This matchup for the TDP Basketball Association Finals features two long-term ri
 ![Wheres Warren logo]({{ site.baseurl }}/assets/images/wheres_warren_1.png)
 
 ## Team Captain - Justin Katz (C)
-### <span style="color: #500000">University of Texas A&M</span>
+### <span style="color: #500000">Texas A&M University</span>
 #### Preseason Stats: -- PPG | -- APG | --  RPG
 _No scouting information available_
 
@@ -49,7 +49,7 @@ _No scouting information available_
 ![Schweddy Bois]({{ site.baseurl }}/assets/images/schweddy_bois_1.png)
 
 ## Team Captain - Oron Hazi (C)
-### <span style="color: #841617">University of Oklahoma</span>
+### <span style="color: #500000">Texas A&M University</span>
 #### Preseason Stats: -- PPG | -- APG | --  RPG
 _No scouting information available_
 
