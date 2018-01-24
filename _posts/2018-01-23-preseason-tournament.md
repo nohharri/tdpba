@@ -20,7 +20,8 @@ To warm up for the new season (and wait for the return of Ian), a 3v3 tournament
 ## Oron Sux
 - Justin Katz (Team Captain)
 - Chris Young
-- Thomas Huerta
+- Jaiden Gerig (Replacement)
+- Thomas Huertab (IR)
 
 ## Lakers
 - Thomas Doan (Team Captain)
