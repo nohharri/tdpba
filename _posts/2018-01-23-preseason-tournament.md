@@ -27,6 +27,7 @@ To warm up for the new season (and wait for the return of Ian), a 3v3 tournament
 - Thomas Doan (Team Captain)
 - Reece Alan Boyd
 - Sasa Cocic-Banjanac
+- Andrew E
 
 # 1st Round
 ## Warriors Sux vs. TheDimePassers
