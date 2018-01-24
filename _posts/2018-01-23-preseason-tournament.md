@@ -34,5 +34,5 @@ Even Lebron had more help when he faced the Spurs in the 2007 NBA Finals. Expect
 
 **Harrison's Prediction: Warriors Sux 21-20 **
 
-## Team 2 vs. Team 4
+## Oron Sux vs. Lakers
 ### Date: TBD
