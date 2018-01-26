@@ -21,7 +21,7 @@ To warm up for the new season (and wait for the return of Ian), a 3v3 tournament
 - Justin Katz (Team Captain)
 - Chris Young
 - Jaiden Gerig (Replacement)
-- Thomas Huertab (IR)
+- Thomas Huerta (IR)
 
 ## Lakers
 - Thomas Doan (Team Captain)
