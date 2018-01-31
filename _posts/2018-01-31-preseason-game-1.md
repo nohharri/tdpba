@@ -14,7 +14,7 @@ author: "Harrison Noh"
 ## Crasta Cares Award - Oron Hazi
 (Awarded to the best teammate of the night)
 
-![Mike getting wrekt]({{ site.baseurl }}/assets/images/mike.jpg)
+![Mike getting wrekt]({{ site.baseurl }}/assets/images/28E34624-B2E8-4B11-99A0-31652072EEE0.jpeg)
 
 # Chobe Shines
 
@@ -24,7 +24,7 @@ The DimePassers shocked the world, proving that size doesn't matter. Andoji led 
 
 A surprising bright light in the abysmal Sux defense was Siddharth Sharma, who led the game in steals with 4. While he put up no shots himself, he was able to crowd the passing lanes with his lanky frame and stern demeanor.
 
-![Mike getting wrekt]({{ site.baseurl }}/assets/images/warriors.jpg)
+![Warriors getting wrekt]({{ site.baseurl }}/assets/images/3FA3BF2B-56D5-41BB-AFD7-BB4C72CA7A5C.jpeg)
 
 # A New Hope
 
