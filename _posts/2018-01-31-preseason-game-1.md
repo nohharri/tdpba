@@ -7,7 +7,7 @@ author: "Harrison Noh"
 # Nightly Notables
 ## Most Valuable Player - Anuraj Andoji
 (Awarded to the best performer of the night)
-## Gelo Award - Sidd Simha
+## Gelo Award - Sidd Sharma
 (Awarded to the most steals)
 ## Not in my House Award - Damian Larson
 (Awarded to a player who holds his opponent to 0 points)
