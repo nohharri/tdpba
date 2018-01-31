@@ -6,98 +6,66 @@ author: "Harrison Noh"
 
 # Nightly Notables
 ## Most Valuable Player - Anuraj Andoji
-(Awarded to t
-## Gelo Award - 
+(Awarded to the best performer of the night)
+## Gelo Award - Sidd Simha
+(Awarded to the most steals)
+## Not in my House Award - Damian Larson
+(Awarded to a player who holds his opponent to 0 points)
 ## Crasta Cares Award - Oron Hazi
 (Awarded to the best teammate of the night)
 
-| sdfdsfsd | sdfds | sdf | sdf |   |
-|----------|-------|-----|-----|---|
-| sdf      | sdf   |     |     |   |
-|          |       |     |     |   |
-|          |       |     |     |   |
+![Mike getting wrekt]({{ site.baseurl }}/assets/images/mike.jpg)
 
+# Chobe Shines
 
+The DimePassers shocked the world, proving that size doesn't matter. Andoji led the game in points, assists, and rebounds, making him the Kia MVP of the night. While Andoji started slow, pace quickly sped up, as he eventually went to go on to score the final 4 points of the game. The Warriors Sux attempted to put different players on Andoji, but to no avail, the game was a blowout from the beginning.
 
-![Wheres Warren logo]({{ site.baseurl }}/assets/images/wheres_warren_1.png)
+# Sidd Steals the Show
 
-## Team Captain - Justin Katz (C)
-### <span style="color: #500000">Texas A&M University</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
+A surprising bright light in the abysmal Sux defense was Siddharth Sharma, who led the game in steals with 4. While he put up no shots himself, he was able to crowd the passing lanes with his lanky frame and stern demeanor.
 
-## 1st pick 2018 Draft - Michael Fortman (SF)
-### <span style="color: #c5050c">University of Wisonsin</span>
-#### Preseason Stats: 14.1 PPG | 6.0 APG | 7.2  RPG
-Fortman looks to be the second coming of Lebron James. As a forward who can both pull up or score the layup, Fortman looks to be an unstoppable threat. Look for the offense to go through Fortman. This young rookie will go down in history as one of the John Walls, Lebron James, and Anthony Davises of the basketball world. There will be children growing up with his poster who want to be "Like Mike."
+![Mike getting wrekt]({{ site.baseurl }}/assets/images/warriors.jpg)
 
-* _Ceiling: Lebron James_
-* _Floor: Brian Scalabrine_
+# A New Hope
 
-## 3rd pick 2018 Draft - Thomas Huerta (PF)
-### <span style="color: #841617">University of Oklahoma</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
+Hope and Andoji were a spectacle to see, showing what a composed offense can do. Hope scored all 5 of his points on offensive rebounds and assists from Andoji. Even with surprise meetings and backlog refinements, nothing could stop Hope. He had an appointment. *With the rim.*
 
-## 5th pick 2018 Draft - Anurag Andoji (PG)
-### <span style="color: #bf5700">University of Texas - Austin</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
+# Fortman Flops
 
-## 7th pick 2018 Draft - Damian Larson (SG)  <span class="out">DTD</span>
-### <span style="color: #0021A5">University of Florida</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
+Although with a valiant effort from Fortman (scoring the Warriors Sux's 4 of 5 points), it was a poor showing as he only got those points on a 29% shooting night. He can't be too faulted though, as the defense was able to smother Fortman into making tough and difficult shots and his teammates unable to bail him out when given the opportunity to shoot.
 
-## Undrafted 2018 Draft - Andrew Lee (PG)
-### <span style="color: #FFE800">University of California - Los Angeles</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
+# Draymond Dame Defense
+Despite Larson being severely undersized, Damian was able to hold Hazi to 0 points, not even allowing him to attempt a single shot. Oron only had one stat of the night, providing a single assist. Look for Larson to continue being a defensive threat, as he continues to polish his offensive game (1 point).
 
+# Final Score: 15 - 5 DimePassers
 
-# Schweddy Bois
+## Full stats:
+### DimePassers
 
-![Schweddy Bois]({{ site.baseurl }}/assets/images/schweddy_bois_1.png)
+| Hope Atina | pts | rbds | asts | stls | blocks | to | fg% |
+|------------|-----|------|------|------|--------|----|-----|
+|            | 5   | 3    | 1    | 1    | 0      | 1  | 57% |
 
-## Team Captain - Oron Hazi (C)
-### <span style="color: #500000">Texas A&M University</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
+| Anurag Andoji | pts | rbds | asts | stls | blocks | to | fg% |
+|---------------|-----|------|------|------|--------|----|-----|
+|               | 10  | 3    | 3    | 0    | 0      | 1  | 64% |
 
-## 2nd pick 2018 draft - Ian Kwan (SG) <span class="out">Out</span>
-### <span style="color: #bf5700">University of Texas - Austin</span>
-#### Preseason Stats: 16.0 PPG | 4.4 APG | 3.3  RPG
-After a season ending ankle injury, Kwan has yet to see hardwood in over 2 months. Before his injury, he was a lights-out shooter. With a strong build, guards fail to manage his strength, while big men can't keep up with Kwan. With a quick release, he is not someone you can leave open. Whether he can return to MVP caliber play is questionable, but if he can return to his previous play, look for the Schweddy Bois to be a contender.
+| Oron Hazi | pts | rbds | asts | stls | blocks | to | fg% |
+|-----------|-----|------|------|------|--------|----|-----|
+|           | 0   | 0    | 1    | 0    | 0      | 0  | 0%  |
 
-* _Ceiling: Michael Jordan_
-* _Floor: Derrick Rose_
+### Warriors Sux
 
-## 4th pick 2018 draft - Sidd Sharma (SF)
-### <span style="color: #CC0033">University of Arizona</span>
-#### Preseason Stats: 2.5 PPG | 0.2 APG | 1.9  RPG
-With a body like Kevin Durant, Sidd possesses the physical capability to be a threat at the forward position. He is convinced that he _can indeed dunk_, but with no career games under his belt, this young rookie still has a lot to prove. Unfortunately, Sharma has not developed his skills well enough for such comparison. There's a lot of potential in Sharma and requires a good shooting coach to develop his skills.
+| Damian Larson | pts | rbds | asts | stls | blocks | to | fg%  |
+|---------------|-----|------|------|------|--------|----|------|
+|               | 1   | 0    | 2    | 0    | 0      | 1  | 100% |
 
-* _Ceiling: Kevin Durant_
-* _Floor: Long walking stick_
+| Michael Fortman | pts | rbds | asts | stls | blocks | to | fg% |
+|-----------------|-----|------|------|------|--------|----|-----|
+|                 | 4   | 3    | 0    | 0    | 1      | 0  | 29% |
 
-## 6th pick 2018 Draft - Chris Young (PF)
-### <span style="color: #0021A5">University of Florida</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
+| Siddharth Sharma | pts | rbds | asts | stls | blocks | to | fg% |
+|------------------|-----|------|------|------|--------|----|-----|
+|                  | 0   | 2    | 1    | 4    | 0      | 4  | 0%  |
 
-## Undrafted 2018 Draft - Reece Alan Boyd (SF)
-### <span style="color: #0066cc">Middle Tennessee State University</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
-
-## Undrafted 2018 Draft - Thomas Doan (PG)
-### <span style="color: #bf5700">University of Texas - Austin</span>
-#### Preseason Stats: -- PPG | -- APG | --  RPG
-_No scouting information available_
-
-# Notable Free Agents
-
-## Warren Crasta (PG)
-### <span style="color: #bf5700">University of Texas - Austin</span>
-After getting drafted last in the 2018 draft, Crasta decided to take his talent overseas, to his house. As his hours in the day grew scarce, so did his passion for the game. After winning a championship in college, Crasta has yet to return to the game he once loved. Consider him a third string point guard if you require more depth at the point.
-
+DimePassers will be moving on to the next round.
