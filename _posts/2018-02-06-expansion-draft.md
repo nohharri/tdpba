@@ -40,6 +40,7 @@ The draft will follow a snake format, meaning that the last pick in the first ro
 
 ## Andrew Lee - G
 ### <span style="color: #3284BF">UCLA</span>
+Lee has recently purchased his first basketball 28 years into his adult life. While he does have a newfound passion for the game, consider him a late 10 - 16th pick. 
 
 ## Chris Young - F
 ### <span style="color: #0021A5">University of Florida</span>
@@ -73,15 +74,18 @@ The draft will follow a snake format, meaning that the last pick in the first ro
 
 ## Siddharth Sharma - F
 ### <span style="color: #CC0033">University of Arizona</span>
+While possessing a lanky demeanor, Sharma lacks the basic basketball IQ necessary at the TDPBA level. He will average around 3 steals a game throughout the season, but don't expect much offensive output during the season. Consider him a mid-round pickup if you have any holes at the forward position.
 
 ## Thomas Doan - G/F
 ### <span style="color: #bf5700">University of Texas - Austin</span>
 
 ## Thomas Huerta - F
 ### <span style="color: #841617">University of Oklahoma</span>
+Little to nothing is known about this mysterious forward. While he played varsity basketball in high school and possesses a large and tall frame, Huerta has spent the majority of his free time in the weight room. He should be an early pickup, maybe even first overall, as he possesses the physical gifts such as Giannis or Lebron.
 
 ## Warren Crasta - G
 ### <span style="color: #bf5700">University of Texas - Austin</span>
+It's Warren.
 
 
 Best of luck to the new captains in the draft, and best of luck to all the teams in the upcoming season. It's going to be the best one yet--mainly because it has to be.
