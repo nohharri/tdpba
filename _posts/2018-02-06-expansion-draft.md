@@ -70,6 +70,7 @@ Lee has recently purchased his first basketball 28 years into his adult life. Wh
 ### <span style="color: #0066cc">Middle Tennessee State University</span>
 Reece is an actual D1 athlete, so there's that. Not much is known about his basketball ability, but come on. D1. Athlete. 
 
+![jokic](https://68.media.tumblr.com/c8b11fb3248a94129c3a263f6bad1201/tumblr_oibdwicMx91s3gys4o1_400.gif)
 ## Sasa Cocic - F
 ### <span style="color: #C8102E">Iowa State University</span>
 
