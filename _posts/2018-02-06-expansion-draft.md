@@ -68,6 +68,7 @@ Lee has recently purchased his first basketball 28 years into his adult life. Wh
 
 ## Reece Boyd - F
 ### <span style="color: #0066cc">Middle Tennessee State University</span>
+Reece is an actual D1 athlete, so there's that. Not much is known about his basketball ability, but come on. D1. Athlete. 
 
 ## Sasa Cocic - F
 ### <span style="color: #C8102E">Iowa State University</span>
