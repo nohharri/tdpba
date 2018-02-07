@@ -5,67 +5,64 @@ author: "Harrison Noh"
 ---
 
 # Nightly Notables
-## Most Valuable Player - Anuraj Andoji
+## Most Valuable Player - Sasa Cocic-Banjanac
 (Awarded to the best performer of the night)
-## Gelo Award - Sidd Sharma
+## Westbrook Award - Sasa Cocic-Banjanac, Justin Katz 
 (Awarded to the most steals)
-## Not in my House Award - Damian Larson
+## No No No Award - Justin Katz
 (Awarded to a player who holds his opponent to 0 points)
-## Crasta Cares Award - Oron Hazi
+## Crasta Cares Award - Reece Alan-Boyd
 (Awarded to the best teammate of the night)
+## Double Double Award - Sasa Cocic-Banjanac
 
-![Mike getting wrekt]({{ site.baseurl }}/assets/images/28E34624-B2E8-4B11-99A0-31652072EEE0.jpeg)
+![preaseason game 2]({{ site.baseurl }}/assets/images/1C5B3B24-6AD4-47E8-BE2A-6E2E2A70BD7C.jpeg)
 
-# Chobe Shines
+# Huerta Hustles....For the First Half
 
-The DimePassers shocked the world, proving that size doesn't matter. Andoji led the game in points, assists, and rebounds, making him the Kia MVP of the night. While Andoji started slow, pace quickly sped up, as he eventually went to go on to score the final 4 points of the game. The Warriors Sux attempted to put different players on Andoji, but to no avail, the game was a blowout from the beginning.
+Buff Thomas was a force to be reckoned with for the first half of this game 2. Huerta scored 5 of his 6 points in the first 10 minutes, showing what an athletic 6 foot forward could do. Sasa was unable to stop Huerta, as he was able to get to the rim with ease. But unconditioned for basketball, he was easily gassed and unable to provide much offensive output.
 
-# Sidd Steals the Show
+# Chris with the Miss
 
-A surprising bright light in the abysmal Sux defense was Siddharth Sharma, who led the game in steals with 4. While he put up no shots himself, he was able to crowd the passing lanes with his lanky frame and stern demeanor.
+While Chris provided a solid scoring night, he did it with little to no efficiency. Young shot an abysmal 25% while only hitting 2 of his outside shots. Young was obviously in a slump. Whether or not he can show he can score consistently has yet to be seen, but with only one preseason game left, whether he can justify his first round pick status proves to be a mystery.
 
-![Warriors getting wrekt]({{ site.baseurl }}/assets/images/3FA3BF2B-56D5-41BB-AFD7-BB4C72CA7A5C.jpeg)
+# Cocic or Jokic?
 
-# A New Hope
+Cocic-Banjanac was the clear winner for KIA MVP as he led both team in both scoring output and rebounds, scoring this season's **FIRST DOUBLE DOUBLE,** recording 10 points and 11 rebounds. Cocic proved that he will not be suffering the wear and tear of the regular season, as he played efficiently and passionately throughout the game. He takes my ballot for the regular season MVP, as he single-handedly brought his team back from a **10 - 0** deficit. If Sasa is paired with another teammate with more offensive game, expect his team to be a contender.
 
-Hope and Andoji were a spectacle to see, showing what a composed offense can do. Hope scored all 5 of his points on offensive rebounds and assists from Andoji. Even with surprise meetings and backlog refinements, nothing could stop Hope. He had an appointment. *With the rim.*
+# Just-in Time
 
-# Fortman Flops
+Sasa threatened Oron Sux late, but Justin Katz was able to push his team towards victory by contributing on both ends, getting 2 blocks and 2 steals while contributing 5 points. While Katz showed early comparisons to Shaq, it was clear that he belongs in the same conversation as Dirk, scoring two late threes to bring his team back into the cluthces of victory. After the score was brought back up from 10-0 to 10-10, Katz scored the final two points of the game.
 
-Although with a valiant effort from Fortman (scoring the Warriors Sux's 4 of 5 points), it was a poor showing as he only got those points on a 29% shooting night. He can't be too faulted though, as the defense was able to smother Fortman into making tough and difficult shots and his teammates unable to bail him out when given the opportunity to shoot.
 
-# Draymond Dame Defense
-Despite Larson being severely undersized, Damian was able to hold Hazi to 0 points, not even allowing him to attempt a single shot. Oron only had one stat of the night, providing a single assist. Look for Larson to continue being a defensive threat, as he continues to polish his offensive game (1 point).
-
-# Final Score: 15 - 5 DimePassers
+# Final Score: 16 - 14 Oron Sux
 
 ## Full stats:
-### DimePassers
+### Oron Sux
 
-| Hope Atina | pts | rbds | asts | stls | blocks | to | fg% |
-|------------|-----|------|------|------|--------|----|-----|
-|            | 5   | 3    | 1    | 1    | 0      | 1  | 57% |
+| Justin Katz | pts | rbds | asts | stls | blocks | to | fg% |
+|-------------|-----|------|------|------|--------|----|-----|
+|             | 5   | 25   | 2    | 2    | 2      | 0  | 44% |
 
-| Anurag Andoji | pts | rbds | asts | stls | blocks | to | fg% |
+| Thomas Huerta | pts | rbds | asts | stls | blocks | to | fg% |
 |---------------|-----|------|------|------|--------|----|-----|
-|               | 10  | 3    | 3    | 0    | 0      | 1  | 64% |
+|               | 6   | 5    | 1    | 1    | 0      | 1  | 44% |
 
-| Oron Hazi | pts | rbds | asts | stls | blocks | to | fg% |
-|-----------|-----|------|------|------|--------|----|-----|
-|           | 0   | 0    | 1    | 0    | 0      | 0  | 0%  |
+| Chris Young | pts | rbds | asts | stls | blocks | to | fg% |
+|-------------|-----|------|------|------|--------|----|-----|
+|             | 5   | 3    | 5    | 1    | 0      | 1  | 25% |
 
-### Warriors Sux
+### Lakers
 
-| Damian Larson | pts | rbds | asts | stls | blocks | to | fg%  |
-|---------------|-----|------|------|------|--------|----|------|
-|               | 1   | 0    | 2    | 0    | 0      | 1  | 100% |
+| Sasa Cocic | pts | rbds | asts | stls | blocks | to | fg% |
+|------------|-----|------|------|------|--------|----|-----|
+|            | 10  | 11   | 3    | 2    | 1      | 3  | 36% |
 
-| Michael Fortman | pts | rbds | asts | stls | blocks | to | fg% |
+| Thomas Doan | pts | rbds | asts | stls | blocks | to | fg% |
+|-------------|-----|------|------|------|--------|----|-----|
+|             | 3   | 2    | 2    | 0    | 0      | 3  | 36% |
+
+| Reece Alan-Boyd | pts | rbds | asts | stls | blocks | to | fg% |
 |-----------------|-----|------|------|------|--------|----|-----|
-|                 | 4   | 3    | 0    | 0    | 1      | 0  | 29% |
+|                 | 1   | 3    | 2    | 0    | 0      | 1  | 50% |
 
-| Siddharth Sharma | pts | rbds | asts | stls | blocks | to | fg% |
-|------------------|-----|------|------|------|--------|----|-----|
-|                  | 0   | 2    | 1    | 4    | 0      | 4  | 0%  |
-
-DimePassers will be moving on to the next round.
+Oron Sux will be facing the Dimepassers in the preseason finals tournament.
