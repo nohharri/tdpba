@@ -25,7 +25,7 @@ The new teams have been announced after the expansion draft of two teams. From t
 * Sasa Cocic (3rd pick, 1st round)
 * Chris Young (6th pick, 2nd round)
 * Damian Larson (11th pick, 3rd round)
-* Thomas Down (14th pick, 4th round)
+* Thomas Doan (14th pick, 4th round)
 
 # Klutchtime
 ## Team Captain - Brian Yeh
