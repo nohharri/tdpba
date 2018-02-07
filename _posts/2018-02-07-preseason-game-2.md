@@ -10,7 +10,7 @@ author: "Harrison Noh"
 ## Westbrook Award - Sasa Cocic-Banjanac, Justin Katz 
 (Awarded to the most steals)
 ## No No No Award - Justin Katz
-(Awarded to a player who holds his opponent to 0 points)
+(Awarded to a player who gets the most blocks)
 ## Crasta Cares Award - Reece Alan-Boyd
 (Awarded to the best teammate of the night)
 ## Double Double Award - Sasa Cocic-Banjanac
