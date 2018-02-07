@@ -42,7 +42,7 @@ Sasa threatened Oron Sux late, but Justin Katz was able to push his team towards
 
 | Justin Katz | pts | rbds | asts | stls | blocks | to | fg% |
 |-------------|-----|------|------|------|--------|----|-----|
-|             | 5   | 25   | 2    | 2    | 2      | 0  | 44% |
+|             | 5   |  5   | 2    | 2    | 2      | 0  | 44% |
 
 | Thomas Huerta | pts | rbds | asts | stls | blocks | to | fg% |
 |---------------|-----|------|------|------|--------|----|-----|
