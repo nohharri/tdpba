@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preseason Game 1 - Andoji and Goliath"
+title:  "Preseason Game 2 - Sasa's Efforts Not Enough, Lakers Fall Short"
 author: "Harrison Noh"
 ---
 
