@@ -14,6 +14,7 @@ author: "Harrison Noh"
 ## Crasta Cares Award - Reece Alan-Boyd
 (Awarded to the best teammate of the night)
 ## Double Double Award - Sasa Cocic-Banjanac
+(Awarded to the player who records a double double)
 
 ![preaseason game 2]({{ site.baseurl }}/assets/images/1C5B3B24-6AD4-47E8-BE2A-6E2E2A70BD7C.jpeg)
 
