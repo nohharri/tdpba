@@ -18,7 +18,7 @@ The new teams have been announced after the expansion draft of two teams. From t
 * Andrew Enenmoh (2nd pick, 1st round)
 * Thomas Huerta (4th pick, 1st round, Traded for Jeffrey Lin's draft rights)
 * Siddharth Simha (10th pick, 3rd round)
-# Andrew Lee (15th pick, 4th round)
+* Andrew Lee (15th pick, 4th round)
 
 # Swaggy TDPs
 ## Team Captain - Michael Fortman
