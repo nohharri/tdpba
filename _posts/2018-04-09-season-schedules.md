@@ -45,6 +45,7 @@ Playoffs will be 5v5 games.
 # First Round
 ## Game 1
 * 1-seed vs. 4-seed
+
 ## Game 2
 * 2-seed vs. 3-seed
 
