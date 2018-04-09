@@ -4,7 +4,7 @@ title:  "Regular Season Schedules"
 author: "Harrison Noh"
 ---
 
-It will be up to the current teams to aid in scheduling their own games at times that work best for them. The commissioner will aid but it will not be his duty to schedule.
+It will be up to the current teams to schedule their own games at times that work best for them. The commissioner will aid but it will not be his duty to schedule.
 
 The home team can decide whether their game will be a 3v3 or 5v5 game.
 
