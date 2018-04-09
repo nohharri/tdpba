@@ -6,3 +6,51 @@
 @import 'tale/layout';
 @import 'tale/pagination';
 @import 'tale/catalogue';
+
+$grey-light: #f4f4f4;
+
+.player-list-container {
+  margin-right: 10px;
+  float: left;
+  font-family: sans-serif;
+  max-width: 100%;
+  width: 380px;
+  background-color: $grey-light;
+  margin-top: 10px;
+  
+  .players-list-header {
+    padding: 10px;
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  .players-list-body {
+    padding: 0px 10px 10px 10px;
+  }
+  
+  .stats-large {
+    font-size: 40px;
+  }
+  
+  .player-team {
+    font-size: 10px;
+    text-transform: uppercase;
+  }
+  
+  p {
+    line-height: 0.4;
+  }
+  
+  .player-text {
+    line-height: 1.2;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  .ACTIVE {
+    
+  }
+}
+
