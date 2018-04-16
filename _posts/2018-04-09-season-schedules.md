@@ -11,44 +11,28 @@ The home team can decide whether their game will be a 3v3 or 5v5 game.
 Playoffs will be 5v5 games.
 
 # Week 1
-
 * There's Warren @ BuffBallerBrand
-* Swaggy TDPs @ KlutchTime
+* SwaggyTDPs @ KlutchTime
 
 # Week 2
-
-* BuffBallerBrand @ SwaggyTDPs
 * KlutchTime @ There's Warren
-
-# Week 3
-
-* There's Warren @ KlutchTime
 * SwaggyTDPs @ BuffBallerBrand
 
-# Week 4
+# Week 3
+* There's Warren @ KlutchTime
+* BuffBallerBrand @ SwaggyTDPs
 
+# Week 4
+* Swaggy TDPs @ There's Warren
+* BuffBallerBrand @ KlutchTime
+
+# Week 5
 * There's Warren @ SwaggyTDPs
 * KlutchTime @ BuffBallerBrand
 
-# Week 5
-
+# Week 6
 * BuffBallerBrand @ There's Warren
 * KlutchTime @ SwaggyTDPs
-
-# Week 6
-
-* SwaggyTDPs @ BuffBallerBrand
-* There's Warren @ KlutchTime
-
-# Week 7
-
-* KlutchTime @ There's Warren
-* BuffBallerBrand @ SwaggyTDPs
-
-# Week 8
-
-* SwaggyTDPs @ There's Warren
-* BuffBallerBrand @ KlutchTime
 
 # Playoffs
 
