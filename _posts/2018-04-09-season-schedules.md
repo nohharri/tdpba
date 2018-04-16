@@ -23,22 +23,32 @@ Playoffs will be 5v5 games.
 # Week 3
 
 * There's Warren @ KlutchTime
-* Swaggy TDPs @ BuffBallerBrand
+* SwaggyTDPs @ BuffBallerBrand
 
 # Week 4
+
+* There's Warren @ SwaggyTDPs
+* KlutchTime @ BuffBallerBrand
+
+# Week 5
 
 * BuffBallerBrand @ There's Warren
 * KlutchTime @ SwaggyTDPs
 
-# Week 5
+# Week 6
 
 * SwaggyTDPs @ BuffBallerBrand
 * There's Warren @ KlutchTime
 
-# Week 6
+# Week 7
 
 * KlutchTime @ There's Warren
 * BuffBallerBrand @ SwaggyTDPs
+
+# Week 8
+
+* SwaggyTDPs @ There's Warren
+* BuffBallerBrand @ KlutchTime
 
 # Playoffs
 
