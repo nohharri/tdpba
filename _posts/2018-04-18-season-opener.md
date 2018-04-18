@@ -11,7 +11,7 @@ Defense was the name of the game for these two conference powerhouses, as both t
 
 Young posted another poor shooting night, shooting below his already low preseason average. As a former second round pick, he has a lot to prove before he can save anyone. But I believe he can save the world. 
 
-[sokka](https://media.giphy.com/media/kkSkgexb9xBoQ/giphy.gif)
+![sokka](https://media.giphy.com/media/kkSkgexb9xBoQ/giphy.gif)
 
 # Free Agency
 
@@ -19,18 +19,18 @@ Free agency proved hectic as 3 last minute additions were added to the rosters. 
 
 # Defensive Presence
 
-[mutombo](https://media.giphy.com/media/oNUeBPfgbgI7K/giphy.gif)
+![mutombo](https://media.giphy.com/media/oNUeBPfgbgI7K/giphy.gif)
 
 Katz was the only bright light in the SwaggyTDPs' abysmal play as he recorded 2 blocks in only 20 minutes of play. Unfortunately, Katz will be returning to his team as he will be traded back to Where's Warren.
 
 ## Full stats:
 ### DimePassers
 
-| Hope Atina | pts | rbds | asts | stls | blocks | to | fg% |
+| Kush Patel | pts | rbds | asts | stls | blocks | to | fg% |
 |------------|-----|------|------|------|--------|----|-----|
 |            | 5   | 3    | 1    | 1    | 0      | 1  | 57% |
 
-| Anurag Andoji | pts | rbds | asts | stls | blocks | to | fg% |
+| Oron Hazi     | pts | rbds | asts | stls | blocks | to | fg% |
 |---------------|-----|------|------|------|--------|----|-----|
 |               | 10  | 3    | 3    | 0    | 0      | 1  | 64% |
 
@@ -52,10 +52,6 @@ Katz was the only bright light in the SwaggyTDPs' abysmal play as he recorded 2 
 |------------------|-----|------|------|------|--------|----|-----|
 |                  | 0   | 2    | 1    | 4    | 0      | 4  | 0%  |
 
-| Chris Young | pts | rbds | asts | stls | blocks | to | fg% |
-|------------------|-----|------|------|------|--------|----|-----|
-|                  | 0   | 2    | 1    | 4    | 0      | 4  | 0%  |
-
-| Chris Young | pts | rbds | asts | stls | blocks | to | fg% |
+| Justin Katz      | pts | rbds | asts | stls | blocks | to | fg% |
 |------------------|-----|------|------|------|--------|----|-----|
 |                  | 0   | 2    | 1    | 4    | 0      | 4  | 0%  |
